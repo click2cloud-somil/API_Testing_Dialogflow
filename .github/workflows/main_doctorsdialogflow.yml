@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'doctorsdialogflow'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_757C2169E7BD4A8EAFC3AA34BEA8A776 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3981DFDA8B43433EADD601245546D95A }}
