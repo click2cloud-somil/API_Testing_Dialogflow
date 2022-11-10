@@ -21,4 +21,6 @@ def get_doctors():
     return jsonify(doctors)
 
 
-app.run(port=5000,debug=True)
+#app.run(port=5000,debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
